@@ -1,1 +1,1 @@
-# BTG-Miner
+# BTG-Miner gpu  miner  
